@@ -51,6 +51,12 @@ Tujuan dari proyek ini adalah:
 
 ---
 
+## Kesimpulan
+Model Decision Tree yang dibangun menunjukkan performa yang cukup baik, dengan akurasi training sebesar 82.4% dan testing sebesar 78.1%, serta selisih akurasi yang masih dalam rentang wajar (±5%). Hal ini mengindikasikan bahwa model tidak mengalami overfitting dan mampu melakukan generalisasi dengan baik.
 
+Untuk memastikan bahwa model yang digunakan merupakan model terbaik, dilakukan tuning hyperparameter terhadap nilai max_depth (1–10) menggunakan GridSearchCV dengan F1-score sebagai metrik evaluasi, mengingat dataset yang digunakan bersifat imbalanced.
 
+Hasil tuning menunjukkan peningkatan akurasi training menjadi 86.3%, namun akurasi testing sedikit menurun menjadi 76.7%. Penurunan ini mengindikasikan bahwa model hasil tuning cenderung lebih kompleks dan berpotensi mengalami overfitting ringan.
+
+Dengan mempertimbangkan trade-off antara akurasi dan generalisasi, dapat disimpulkan bahwa model awal sebelum tuning merupakan model yang paling optimal untuk kasus ini.
 
