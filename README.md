@@ -2,7 +2,7 @@
 
 Selamat datang di portofolio Machine Learning dan Data Science saya! Repositori ini berisi kumpulan proyek berbasis studi kasus industri yang saya kerjakan untuk memperdalam pemahaman dan keterampilan praktis dalam membangun serta mengevaluasi model machine learning.
 
-## 🎯 Tujuan Portofolio
+##  Tujuan Portofolio
 
 Portofolio ini bertujuan untuk menunjukkan kemampuan saya dalam:
 
@@ -11,11 +11,11 @@ Portofolio ini bertujuan untuk menunjukkan kemampuan saya dalam:
 - Mengevaluasi performa model dengan metrik statistik
 - Menyampaikan insight melalui visualisasi dan dokumentasi
 
-## 📁 Struktur Folder
+##  Struktur Folder
 
 Repositori ini disusun berdasarkan topik dan alur pembelajaran yang sistematis:
 
-| 📂 Folder | 📌 Deskripsi |
+|  Folder |  Deskripsi |
 |----------|--------------|
 | `Perkenalan Data Scientist` | Studi kasus retail untuk memahami peran data scientist |
 | `Exploratory Data Analysis` | Analisis eksploratif untuk memahami struktur dan pola data |
@@ -32,27 +32,13 @@ Repositori ini disusun berdasarkan topik dan alur pembelajaran yang sistematis:
 | `Customer Segmentation - Marketing` | Segmentasi pelanggan berdasarkan data pemasaran |
 | `Storytelling with Visualization` | Menyampaikan insight melalui visualisasi data interaktif |
 
-## 🛠️ Tools & Teknologi
+## 🛠 Tools & Teknologi
 
 - **Python**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Jupyter Notebook**: Dokumentasi dan eksekusi kode
 - **Machine Learning**: K-Means, Naive Bayes, KNN, Logistic Regression, Decision Tree, Random Forest, CART
 - **Statistik**: Distribusi, probabilitas, metrik evaluasi
 
-## 📈 Contoh Output
 
-- Segmentasi pelanggan berdasarkan pola pembelian
-- Prediksi churn pelanggan menggunakan klasifikasi biner
-- Visualisasi decision boundary dari model klasifikasi
-- Perbandingan performa model dengan confusion matrix dan ROC curve
-
-## 🧠 Insight & Pembelajaran
-
-Melalui proyek-proyek ini, saya belajar:
-
-- Pentingnya data preprocessing sebelum modeling
-- Cara memilih algoritma yang sesuai dengan jenis masalah
-- Teknik validasi dan tuning model untuk meningkatkan akurasi
-- Menyusun narasi data yang jelas untuk stakeholder non-teknis
 
 
